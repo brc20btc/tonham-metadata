@@ -3,7 +3,7 @@
   "description": "Токен TONHAM в сети TON",
   "symbol": "TONHAM",
   "decimals": 9,
-  "image": "https://example.com/tonham-logo.png",
+  "image": "https://raw.githubusercontent.com/brc20btc/tonham-metadata/68d9bacfb0f56f98e616a1230beee100f6416a1c/Ham.png",
   "social": {
     "website": "https://tonham.com",
     "telegram": "https://t.me/tonham"
