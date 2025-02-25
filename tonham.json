@@ -1,0 +1,11 @@
+{
+  "name": "TONHAM",
+  "description": "Токен TONHAM в сети TON",
+  "symbol": "TONHAM",
+  "decimals": 9,
+  "image": "https://example.com/tonham-logo.png",
+  "social": {
+    "website": "https://tonham.com",
+    "telegram": "https://t.me/tonham"
+  }
+}
